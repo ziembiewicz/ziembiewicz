@@ -1,19 +1,13 @@
 # Tomasz Ziembiewicz
 
-**Infrastructure engineer moving to cloud-native. Thirty years of systems, three
-of Kubernetes.**
-
-I started with UNIX in the nineties — SCO OpenServer, Tru64, then Solaris — and
-spent most of my career where storage, networking and security meet: NetApp FAS,
-IBM DS8000, Fortinet. Since 2022 I have been rebuilding that foundation on modern
+I started with Linux and UNIX in the nineties — RedHat, Debian, SCO OpenServer, Tru64, then Solaris — and
+spent most of my career where UNIX/Linux, storage, networking and security meet enterprise hardware like NetApp,
+IBM DS8000, Fortinet. Since 2020 I have been rebuilding that foundation on modern
 ground: containers, infrastructure as code, GitOps, Kubernetes.
-
-I am a DevOps engineer by day. Everything published here is built in my own lab,
-from public documentation — not lifted from work.
 
 ## What I am doing now
 
-- Running a home lab as a production rehearsal: Proxmox VE, VLAN-segmented
+- Running a home lab on Proxmox VE cluster, VLAN-segmented
   MikroTik network, k3s with Crossplane and Argo CD, Home Assistant.
 - Working toward AWS certification, after Azure Administrator Associate.
 
